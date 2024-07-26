@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class Controll {
 @GetMapping("/get")
 public String get() {
-	return "Docker Run";
+	return "New Docker  Run";
 }
 }
